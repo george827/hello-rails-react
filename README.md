@@ -130,9 +130,6 @@ To run the project, execute the following command:
 - LinkedIn: [George Kinyanjui](https://www.linkedin.com/in/georgekinyanjui/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
